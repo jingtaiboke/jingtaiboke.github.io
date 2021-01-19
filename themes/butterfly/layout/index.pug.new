@@ -1,0 +1,9 @@
+extends includes/layout.pug
+
+block content
+  include ./includes/mixins/post-ui.pug
+  #recent-posts.recent-posts
+    .recent-post-item.photo-tag(style='width:100%;height:auto;float:left;padding:5px;flex-wrap:wrap;justify-content : center;flex-direction: row; ')
+        include catalogMagnet.pug
+    +postUI
+    include includes/pagination.pug

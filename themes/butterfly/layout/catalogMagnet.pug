@@ -1,0 +1,15 @@
+#catalogMagnet
+  figure.gallery-group.color-card(v-for='(item,index) in link' :style="[figbackColor,figShadow]")
+    img.gallery-group-img.loaded(:src='img[index]', data-ll-status='loaded')
+    figcaption(:style="[figLetimg,figLetColor]")
+      .gallery-group-name.magnetname(style='font-size: 1rem;')
+        span | 
+        a(:href='catalogMagnet.link[index].pathname' :style="[figLetColor]") {{catalogMagnet.link[index].text}}
+      li.category-list-item
+        
+        span.category-list-count
+          i.fas.fa-book
+          | {{catalogMagnet.postnum[index].textContent}}
+      p {{catalogMagnet.describe[index]}}
+      a(:href='catalogMagnet.link[index].pathname')
+.categoryMagnetitem(style="display:none")!= list_categories()
