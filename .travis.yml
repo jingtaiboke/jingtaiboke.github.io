@@ -8,9 +8,11 @@ cache:
 branches:
   only:
     - master # build master branch only
+install:
+    - npm install
 script:
   - hexo generate # generate static files
-deploy:
+deploy:	
   provider: pages
   skip-cleanup: true
   github-token: $GH_TOKEN
