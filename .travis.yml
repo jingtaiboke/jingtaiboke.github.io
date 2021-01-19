@@ -1,7 +1,7 @@
 sudo: false
 language: node_js
 node_js:
-  - 12 # use nodejs v10 LTS
+  - 14 # use nodejs v10 LTS
 cache:
   directories:
     - node_modules
