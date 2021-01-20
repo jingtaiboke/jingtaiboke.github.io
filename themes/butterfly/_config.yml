@@ -8,6 +8,7 @@
 
 menu:
   # Home: / || fas fa-home
+  编辑器入口:https://jingtaiboke.com/ || fas fa-file-code-o
   所有文章: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   #Categories: /categories/ || fas fa-folder-open
