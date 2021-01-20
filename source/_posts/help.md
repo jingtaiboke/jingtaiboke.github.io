@@ -128,7 +128,7 @@ markdown文件还支持实时预览
 		"MyHexo": ["---",
 			"title: hexo post",
 			"permalink: ",
-			"top_img: ",
+			"cover: ",
 			"updated: {now}",
 			"date: {now}",
 			"categories: ",
