@@ -1,12 +1,16 @@
 ---
-title: 使用教程{一}
-date: 2021-01-20 00:35:00
+title: 静态博客编辑器-系列教程(一)  快速入门
+date: 2021-01-20 19:19:14
 categories: 
-- 静态博客编辑器
-- 教程
+- [系列教程]
+
 tags: 
 - 静态博客编辑器
 - 教程
+
+permalink: help1.html
+cover: https://s3.ax1x.com/2021/01/20/sWzOyD.png
+updated: 2021-01-20 19:19:14
 
 ---
 # 简介
@@ -21,94 +25,132 @@ markdown文件还支持实时预览
 支持Hexo、Hugo、jekyll等主流静态博客
 并且根据静态博客特点做了很多优化,使大家专注于写文章,而不是折腾什么博客,内容才是王道
 
-* 自定义文章头模板
-
-> 文章头内容繁杂,尤其是个别主题,自定义字段很多 记不住,提前定义好模板,一键插入
-(支持多个模板)
-
-* 自定义标签、文章分类
-
-> 提前设置好,一键插入,不用到处扒拉
-
-* 方便的图床
-
-> 博客图片是个问题,本程序支持图片直接粘贴,自动上传图床（sm.ms）,自动插入代码,Ctrl+V搞定一切
-还支持Chevereto系列图床（默认路过图床）,也很方便,可自定义选哪家,当然也可自建,选自己
-
-* 一键发布
-
-> 不用99,不用9块9,只需要点一下【发布】按钮
-
-* 支持提建议
-
-> 这一条厉害了,你觉得写博客哪一步繁琐,提给作者,尽力帮大家再简化
-
-* 最后，他是个网页版
-
-> 不用部署环境,不用敲命令行,有浏览器就行,手机也行
 
 # 快速上手,5分钟毕业
 
 > 如果你只是想建个博客,写写文章,看完这一节就毕业了,其他的一概不用看
-
 避免选择恐惧症,这里只介绍一条路,这条路就是
 
 `github+hexo+netlify`
 
 
-## 注册github并获取token
-[点这里](https://github.com/settings/tokens "点这里"),生成一个token,权限勾选`repo`
+## 注册github
+首先你要有一个[https://github.com/](https://github.com/ "https://github.com/")
 
 ## 一键部署到netlify
 
-[![一键部署](https://d33wubrfki0l68.cloudfront.net/65a18ef24e011fbc0b5ddb411d611c0e1d1111a6/17e0b/images/deploy-button.svg "一键部署")](https://app.netlify.com/start/deploy?repository=https://github.com/sbedit/sbedit.github.io "一键部署")
+[![一键部署](https://d33wubrfki0l68.cloudfront.net/65a18ef24e011fbc0b5ddb411d611c0e1d1111a6/17e0b/images/deploy-button.svg "一键部署")](https://app.netlify.com/start/deploy?repository=https://github.com/jingtaiboke/jingtaiboke.github.io "一键部署")
 这一步很简单,一路下一步,确定即可
 
 ### 绑定域名
-![](https://i.loli.net/2021/01/19/3jWHA6GeOLq1YJn.png)
-## 注册本站
+![](https://i.loli.net/2021/01/20/Vwx52bKog6cujap.png)
+
+## 登录本站
 
 用github直接登录本站,享受在线管理文章的乐趣
 
+>授权的时候可以自己选择 是否包含**私有库**,看你需求,无授权当然无法管理私有库
 
 
-## 简单瞅一眼本站[帮助文档](https://jing.gezhong.vip/help.html "帮助文档")
+## 帮助文档
 
-重点看一眼 设置部分，这一部分很强大，很强，强！
+### 这是操作界面
 增加、删除，编辑、保存，发布 全部在本站操作即可
+![](https://s3.ax1x.com/2021/01/20/sWzOyD.png)
 
+### 图床方案
 
-# 部署到Velcel
-[![部署到vercel](https://vercel.com/button "部署到vercel")](https://vercel.com/import/project?template=https://github.com/jingtaiboke/jingtaiboke.github.io "部署到vercel")
+#### 一. 直接截图粘贴
 
-settings--->git-->Ignored Build Step
+> 微信截图,QQ截图.其他各种截图工具 Ctrl+V后,自动上传到sm.ms图床
 
-	git diff --quiet HEAD^ HEAD README.md
-	
-	
+#### 二.本地文件拖拽
 
-# 使用 Travis Ci自动部署到github pages
-GH_TOKEN
-.travis.yml
+> 从电脑文件管理器,直接拖拽到编辑器,自动上传到sm.ms图床
+
+#### 三.网络图片粘贴
+
+> 右键网页图片-->复制-->来到编辑区Ctrl+V,自动上传到sm.ms图床
+
+#### 四.Chevereto系列图床
+
+本站已经集成Chevereto图床插件,此系列的图床,可以使用插件方式上传
+当然可以设置成自己的图床
+默认使用https://imgchr.com/
+[更多Chevereto图床](https://github.com/Chevereto/api#-powered-by-chevereto "更多Chevereto图床")
+![](https://i.loli.net/2021/01/20/96YuCBjfl5WtMmo.png)
+
+### [设置](https://jingtaiboke.com/config.php "设置")
+
+#### 1.个人网站设置
+
+> 设置的网站,会显示在本站首页用户区,未使用本站服务的请不要设置,有封号风险
+
+#### 2.仓库设置(Repository)
+
+> 设置需要本站操作的`Repository`,支持多个,用英文逗号隔开
+例如:`myblogA,myblogB`
+
+#### 3.其他设置
+
+> 其他设置太杂,全部放在一起,反而干净了,必须使用标准json格式
+* lei: 分类设置(~~英文单词太长,记不住~~)
+* tags: 标签
+* links:将显示为**常用链接**
+* smmsToken : sm.ms图床token(截图粘贴用,默认用公共API)
+* cheveretoPicBed : chevereto图床网址,默认"https://imgchr.com"
+* frontMatter : 文章头模板,用于一键插入博客头,名字,内容都可随便设置,其中{now}为变量=现在时间
+
 ```
-sudo: false
-language: node_js
-node_js:
-  - 10 # use nodejs v10 LTS
-cache: npm
-branches:
-  only:
-    - master # build master branch only
-script:
-  - hexo generate # generate static files
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GH_TOKEN
-  keep-history: true
-  on:
-    branch: master
-  local-dir: public
+{
+	"lei": [
+		"[系列教程]",
+		"[编辑器相关]",
+		"[静态博客技术]"
+	],
+	"tags": ["静态博客", "编辑器", "hexo", "hugo","jekyll","vercel","Netlify"],
+	"links": [{
+			"title": "请去",
+			"url": "/config.php"
+		},
+		{
+			"title": "后台",
+			"url": "/config.php"
+		},
+		{
+			"title": "设置",
+			"url": "/config.php"
+		}
+	],
+	"smmsToken": "",
+	"cheveretoPicBed": "https://imgchr.com",
+	"frontMatter": {
+		"MyHexo": ["---",
+			"title: hexo post",
+			"permalink: ",
+			"top_img: ",
+			"updated: {now}",
+			"date: {now}",
+			"categories: ",
+			"tags: ",
+			"---"
+		],
+		"MyHugo": ["---",
+			"title: hugo post",
+			"date: {now}",
+			"categories: ",
+			"tags: ",
+			"---"
+		],
+		"MySelf": ["---",
+			"title: my self  post",
+			"date: {now}",
+			"categories: ",
+			"tags: ",
+			"---"
+		]
+	}
+}
 ```
 
-## 修改page的分支为`gh-pages`
+![](https://i.loli.net/2021/01/20/LQBJGxAwZ8jHubs.png)
