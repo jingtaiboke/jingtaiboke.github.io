@@ -1,10 +1,10 @@
 # 简介
 
-## 首先,这是一个github内容编辑器
+## 首先,[这是一个github内容编辑器](https://jingtaiboke.com/ "这是一个github内容编辑器")
 可以方便的增加,删除,编辑github文件
 markdown文件还支持实时预览
 
-## 期次,主要定位是静态博客文章管理
+## 期次,主要定位是[静态博客文章管理](https://jingtaiboke.com/ "静态博客文章管理")
 
 
 支持Hexo、Hugo、jekyll等主流静态博客
