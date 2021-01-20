@@ -96,7 +96,66 @@ markdown文件还支持实时预览
 * lei: 分类设置(~~英文单词太长,记不住~~)
 * tags: 标签
 * links:将显示为**常用链接**
+* smmsToken : sm.ms图床token(截图粘贴用,默认用公共API)
+* cheveretoPicBed : chevereto图床网址,默认"https://imgchr.com"
+* frontMatter : 文章头模板,用于一键插入博客头,名字,内容都可随便设置,其中{now}为变量=现在时间
 
+```
+{
+	"lei": [
+		"[系列教程]",
+		"[编辑器相关]",
+		"[静态博客技术]"
+
+	],
+	"tags": ["静态博客", "编辑器", "hexo", "hugo","jekyll","vercel","Netlify"],
+
+	"links": [{
+			"title": "请去",
+			"url": "/config.php"
+		},
+		{
+			"title": "后台",
+			"url": "/config.php"
+		},
+		{
+			"title": "设置",
+			"url": "/config.php"
+		}
+	],
+	"smmsToken": "",
+	"cheveretoPicBed": "https://imgchr.com",
+	"frontMatter": {
+		"MyHexo": ["---",
+			"title: hexo post",
+			"permalink: ",
+			"top_img: ",
+			"updated: {now}",
+			"date: {now}",
+			"categories: ",
+			"tags: ",
+			"---"
+		],
+		"MyHugo": ["---",
+			"title: hugo post",
+			"date: {now}",
+			"categories: ",
+			"tags: ",
+			"---"
+		],
+		"MySelf": ["---",
+			"title: my self  post",
+			"date: {now}",
+			"categories: ",
+			"tags: ",
+			"---"
+		]
+
+	}
+
+}
+
+```
 
 ![](https://i.loli.net/2021/01/20/LQBJGxAwZ8jHubs.png)
 
