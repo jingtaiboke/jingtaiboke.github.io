@@ -1,5 +1,7 @@
 # 简介
 
+> 本文主角:[静态博客编辑器](https://jingtaiboke.com/ "静态博客编辑器")
+
 ## 首先,[这是一个github内容编辑器](https://jingtaiboke.com/ "这是一个github内容编辑器")
 可以方便的增加,删除,编辑github文件
 markdown文件还支持实时预览
