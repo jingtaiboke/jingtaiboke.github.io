@@ -1,5 +1,5 @@
 ---
-title: 静态博客编辑器-系列教程-目录(一)
+title: 静态博客编辑器-系列教程(一)  快速入门
 date: 2021-01-20 00:35:00
 categories: 
 - [系列教程]
@@ -78,7 +78,30 @@ markdown文件还支持实时预览
 [更多Chevereto图床](https://github.com/Chevereto/api#-powered-by-chevereto "更多Chevereto图床")
 ![](https://i.loli.net/2021/01/20/96YuCBjfl5WtMmo.png)
 
-### 设置
+### [设置](https://jingtaiboke.com/config.php "设置")
+
+#### 1.个人网站设置
+
+> 设置的网站,会显示在本站首页用户区,未使用本站服务的请不要设置,有封号风险
+
+#### 2.仓库设置(Repository)
+
+> 设置需要本站操作的`Repository`,支持多个,用英文逗号隔开
+例如:`myblogA,myblogB`
+
+#### 3.其他设置
+
+> 其他设置太杂,全部放在一起,反而干净了,必须使用标准json格式
+
+* lei: 分类设置(~~英文单词太长,记不住~~)
+* tags: 标签
+* links:将显示为**常用链接**
+
+
+![](https://i.loli.net/2021/01/20/LQBJGxAwZ8jHubs.png)
+
+
+
 
 
 
