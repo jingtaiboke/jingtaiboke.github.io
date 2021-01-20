@@ -72,7 +72,13 @@ markdown文件还支持实时预览
 
 #### 四.Chevereto系列图床
 
-本站已经集成Chevereto图床插件,
+本站已经集成Chevereto图床插件,此系列的图床,可以使用插件方式上传
+当然可以设置成自己的图床
+默认使用https://imgchr.com/
+[更多Chevereto图床](https://github.com/Chevereto/api#-powered-by-chevereto "更多Chevereto图床")
+![](https://i.loli.net/2021/01/20/96YuCBjfl5WtMmo.png)
+
+### 设置
 
 
 
