@@ -1,12 +1,16 @@
 ---
 title: 静态博客编辑器-系列教程(一)  快速入门
-date: 2021-01-20 00:35:00
+date: 2021-01-20 19:19:14
 categories: 
 - [系列教程]
 
 tags: 
 - 静态博客编辑器
 - 教程
+
+permalink: help1.html
+top_img: https://s3.ax1x.com/2021/01/20/sWzOyD.png
+updated: 2021-01-20 19:19:14
 
 ---
 # 简介
@@ -54,7 +58,7 @@ markdown文件还支持实时预览
 
 ### 这是操作界面
 增加、删除，编辑、保存，发布 全部在本站操作即可
-![](https://i.loli.net/2021/01/20/R9lixJnZr4kQoM3.png)
+![](https://s3.ax1x.com/2021/01/20/sWzOyD.png)
 
 ### 图床方案
 
@@ -158,6 +162,8 @@ markdown文件还支持实时预览
 ```
 
 ![](https://i.loli.net/2021/01/20/LQBJGxAwZ8jHubs.png)
+
+
 
 
 
