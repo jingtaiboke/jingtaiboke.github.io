@@ -4,18 +4,18 @@
   
     
     <entry>
-      <title>Hello World5</title>
-      <link href="2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(3)/"/>
-      <url>2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(3)/</url>
+      <title>Hello World4</title>
+      <link href="2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(4)/"/>
+      <url>2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(4)/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p> <img src= "/img/loading.gif" data-lazy-src="https://s3.ax1x.com/2020/12/24/rcbS6s.png"></p><h2 id="漂亮的模板"><a href="#漂亮的模板" class="headerlink" title="漂亮的模板"></a>漂亮的模板</h2><ul><li><a href="https://zfe.space/">小冰</a></li><li><a href="https://yangchaoyi.vip/">hexo-theme-butterfly魔改</a></li><li><a href="https://yangchaoyi.vip/">魔改</a></li><li><a href="https://github.com/6616/Butterfly-double-row-display">两列样式</a></li><li><a href="https://zfe.space/post/52914.html">双栏卡片主页文章css样式</a></li><li><a href="https://zfe.space/post/43636.html">分类磁贴2.0版</a></li><li><a href="http://soultop.top/2020/04/19/Butterfly-%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">美化-搜索…</a></li><li><a href="https://butterfly.js.org/posts/7670b080/">官网推荐</a></li><li><a href=""></a></li></ul><h2 id="markdown-github编辑器"><a href="#markdown-github编辑器" class="headerlink" title="markdown+github编辑器"></a>markdown+github编辑器</h2><ul><li><a href="https://www.npmjs.com/package/github-file">github-file</a></li><li><a href="https://harrychen0506.github.io/react-markdown-editor-lite/">react-markdown-editor</a></li></ul><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       <categories>
           
-          <category> 一级5 </category>
+          <category> 一级4 </category>
           
-          <category> 二级51 </category>
+          <category> 二级14 </category>
           
       </categories>
       
@@ -35,18 +35,22 @@
     
     
     <entry>
-      <title>Hello World4</title>
-      <link href="2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(4)/"/>
-      <url>2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(4)/</url>
+      <title>Hello World1</title>
+      <link href="2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC/"/>
+      <url>2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p> <img src= "/img/loading.gif" data-lazy-src="https://s3.ax1x.com/2020/12/24/rcbS6s.png"></p><h2 id="漂亮的模板"><a href="#漂亮的模板" class="headerlink" title="漂亮的模板"></a>漂亮的模板</h2><ul><li><a href="https://zfe.space/">小冰</a></li><li><a href="https://yangchaoyi.vip/">hexo-theme-butterfly魔改</a></li><li><a href="https://yangchaoyi.vip/">魔改</a></li><li><a href="https://github.com/6616/Butterfly-double-row-display">两列样式</a></li><li><a href="https://zfe.space/post/52914.html">双栏卡片主页文章css样式</a></li><li><a href="https://zfe.space/post/43636.html">分类磁贴2.0版</a></li><li><a href="http://soultop.top/2020/04/19/Butterfly-%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">美化-搜索…</a></li><li><a href="https://butterfly.js.org/posts/7670b080/">官网推荐</a></li><li><a href=""></a></li></ul><h2 id="markdown-github编辑器"><a href="#markdown-github编辑器" class="headerlink" title="markdown+github编辑器"></a>markdown+github编辑器</h2><ul><li><a href="https://www.npmjs.com/package/github-file">github-file</a></li><li><a href="https://harrychen0506.github.io/react-markdown-editor-lite/">react-markdown-editor</a></li></ul><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       <categories>
           
-          <category> 一级4 </category>
+          <category> 一级3 </category>
           
-          <category> 二级14 </category>
+          <category> 一级1 </category>
+          
+          <category> 二级11 </category>
+          
+          <category> 二级21 </category>
           
       </categories>
       
@@ -107,41 +111,6 @@
       <categories>
           
           <category> 一级2 </category>
-          
-          <category> 二级21 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> PS3 </tag>
-            
-            <tag> Games </tag>
-            
-            <tag> 标签3 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World1</title>
-      <link href="2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC/"/>
-      <url>2021/01/20/hello-world%20-%20%E5%89%AF%E6%9C%AC/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p> <img src= "/img/loading.gif" data-lazy-src="https://s3.ax1x.com/2020/12/24/rcbS6s.png"></p><h2 id="漂亮的模板"><a href="#漂亮的模板" class="headerlink" title="漂亮的模板"></a>漂亮的模板</h2><ul><li><a href="https://zfe.space/">小冰</a></li><li><a href="https://yangchaoyi.vip/">hexo-theme-butterfly魔改</a></li><li><a href="https://yangchaoyi.vip/">魔改</a></li><li><a href="https://github.com/6616/Butterfly-double-row-display">两列样式</a></li><li><a href="https://zfe.space/post/52914.html">双栏卡片主页文章css样式</a></li><li><a href="https://zfe.space/post/43636.html">分类磁贴2.0版</a></li><li><a href="http://soultop.top/2020/04/19/Butterfly-%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">美化-搜索…</a></li><li><a href="https://butterfly.js.org/posts/7670b080/">官网推荐</a></li><li><a href=""></a></li></ul><h2 id="markdown-github编辑器"><a href="#markdown-github编辑器" class="headerlink" title="markdown+github编辑器"></a>markdown+github编辑器</h2><ul><li><a href="https://www.npmjs.com/package/github-file">github-file</a></li><li><a href="https://harrychen0506.github.io/react-markdown-editor-lite/">react-markdown-editor</a></li></ul><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 一级3 </category>
-          
-          <category> 一级1 </category>
-          
-          <category> 二级11 </category>
           
           <category> 二级21 </category>
           
