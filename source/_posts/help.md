@@ -9,7 +9,7 @@ tags:
 - 教程
 
 permalink: help1.html
-cover: https://s3.ax1x.com/2021/01/20/sWzOyD.png
+cover: https://s3.ax1x.com/2021/01/20/sf9SRP.png
 updated: 2021-01-20 19:19:14
 
 ---
