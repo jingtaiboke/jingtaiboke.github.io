@@ -12,9 +12,11 @@
  
  
  ## SSH KEY
- 你需要用命令行生成一一对ssh-keygen
+ * 你需要用命令行生成一一对ssh-keygen
  ```
- ssh-keygen -t rsa -b 4096 -f ~/.ssh/github-actions-deploy
+ ssh-keygen -t rsa -b 4096 -f github-actions-deploy
  ```
  
- 来到 https://github.com/settings/keys 添加ssh key
+* 来到 https://github.com/settings/keys 添加 ssh public key
+ 
+* 来到仓库的Settings->Secrets，新建Actions secrets 名为 `ACTION_DEPLOY_KEY` 值为刚才生成的密钥
