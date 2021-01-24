@@ -28,39 +28,21 @@ updated: 2021-01-20 19:19:14
 
 点击这个按钮,一键部署 [![一键部署](https://d33wubrfki0l68.cloudfront.net/65a18ef24e011fbc0b5ddb411d611c0e1d1111a6/17e0b/images/deploy-button.svg "一键部署")](https://app.netlify.com/start/deploy?repository=https://github.com/jingtaiboke/jingtaiboke.github.io "一键部署")
 
-## 界面1,随便取一个名字
-![](http://img.youzibe.com/upload/2021/01/242316-1611501410216.png)
+## 一路下一步
 
-## 界面2,选择github,并建立连接
-
-![](http://img.youzibe.com/upload/2021/01/242315-1611501356761.png)
-
-## 界面3,选择给仓库取个名字
-![](http://img.youzibe.com/upload/2021/01/242318-1611501530195.png)
-
-## 界面4,直接点部署然后等待
-![](http://img.youzibe.com/upload/2021/01/242319-1611501601875.png)
-
-## 界面5,部署后进控制台
-![](http://img.youzibe.com/upload/2021/01/242321-1611501686000.png)
-
-## 在vercel设置一个参数
-选择刚才部署的站点--> setting--> git--> Ignored Build Step 填上下面代码,然后保存
-```
-git diff --quiet HEAD^ HEAD README.md
-```
-![](http://img.youzibe.com/upload/2021/01/242323-1611501812338.png)
-
+写完vercel篇,发现写的有点臃肿,这里一路下一步即可
 
 ## 绑定自己的域名
 
-> vercel提供了一个二级域名,喜欢的话可以直接用,也可以绑定自己的域名
+> netlify同样提供了一个二级域名,喜欢的话可以直接用,也可以绑定自己的域名
 
-![](http://img.youzibe.com/upload/2021/01/242326-1611502020822.png)
+按钮是这个
+
+![](https://img.youzibe.com/upload/2021/01/250027-1611505659858.png)
 
 ## 部署完毕
 
-这时候你已经有了一个静态博客,回到github看一眼,vercel帮你创建了一个新仓库,名字是你在界面3自己取的,记下来
+这时候你已经有了一个静态博客,回到github看一眼,netlify帮你创建了一个新仓库,名字是你在界面3自己取的,记下来
 
 # 在线写博客
 
