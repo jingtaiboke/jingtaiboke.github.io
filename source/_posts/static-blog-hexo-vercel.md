@@ -26,7 +26,7 @@ updated: 2021-01-20 19:19:14
 
 # 第一步:一键部署静态博客
 
-[![一键部署hexo到vercel](https://vercel.com/button "一键部署hexo到vercel")](https://vercel.com/import/project?template=https://github.com/jingtaiboke/jingtaiboke.github.io "一键部署hexo到vercel")
+点击这个按钮,一键部署 [![一键部署hexo到vercel](https://vercel.com/button "一键部署hexo到vercel")](https://vercel.com/import/project?template=https://github.com/jingtaiboke/jingtaiboke.github.io "一键部署hexo到vercel")
 
 ## 界面1,随便取一个名字
 ![](http://img.youzibe.com/upload/2021/01/242316-1611501410216.png)
