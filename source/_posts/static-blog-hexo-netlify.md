@@ -10,7 +10,7 @@ tags:
 - netlify
 
 
-permalink: build-netlify.html
+permalink: 
 cover: https://s3.ax1x.com/2021/01/20/sf9SRP.png
 updated: 2021-01-20 19:19:14
 
