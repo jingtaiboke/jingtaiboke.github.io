@@ -97,7 +97,7 @@ const getScript = url => new Promise((resolve, reject) => {
   isHome: true,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2021-01-25 00:21:22'
+  postUpdate: '2021-01-25 00:29:18'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -167,24 +167,20 @@ if (asideStatus !== undefined) {
 
 用到的工具
 github 存放静态博客程序,本文使用hexo
-Vercel 傻瓜式ci部署 + 网站托管 + 绑定域名
+netlify 傻瓜式ci部署 + 网站托管 + 绑定域名
 静态博客编辑器 在线写hexo博客,不用命令行
 
 第一步:一键部署静态博客点击这个按钮,一键部署 
-界面1,随便取一个名字
-界面2,选择github,并建立连接
-界面3,选择给仓库取个名字
-界面4,直接点部署然后等待
-界面5,部署后进控制台
-在vercel设置一个参数选择刚才部署的站点–&gt; setting–&gt; git–&gt; Ignored Build Step 填上下面代码,然后保存
-1git diff --quiet HEAD^ HEAD README.md
-
+一路下一步写完vercel篇,发现写的有点臃肿,这里一路下一步即可
 绑定自己的域名
-vercel提供了一个二级域名,喜欢的话可以直接用,也可以绑定自己的域名
+netlify同样提供了一个二级域名,喜欢的话可以直接用,也可以绑定自己的域名
 
+按钮是这个
 
-部署完毕这时候你已经有了一个静态博客,回到github看一眼,vercel帮你创建了一个新仓库,名字是你在界面3自己取的,记下来
-在线写博客在线写hexo博客神器登场了, 用 ...</div></div></div><div class="recent-post-item"><div class="post_cover right_radius"><a href="/static-blog-hexo-vercel.html" title="3分钟搭建Hexo静态博客-(vercel篇)">     <img class="post_bg" data-lazy-src="https://s3.ax1x.com/2021/01/20/sf9SRP.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="3分钟搭建Hexo静态博客-(vercel篇)"></a></div><div class="recent-post-info"><a class="article-title" href="/static-blog-hexo-vercel.html" title="3分钟搭建Hexo静态博客-(vercel篇)">3分钟搭建Hexo静态博客-(vercel篇)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-01-24T12:37:43.000Z" title="发表于 2021-01-24 20:37:43">2021-01-24</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B/">系列教程</a></span></div><div class="content">前言
+部署完毕这时候你已经有了一个静态博客,回到github看一眼,netlify帮你创建了一个新仓库,名字是你在界面3自己取的,记下来
+在线写博客在线写hexo博客神器登场了, 用github账号登录静态博客编辑器,即可在线写博客了
+这里是使用教程
+</div></div></div><div class="recent-post-item"><div class="post_cover right_radius"><a href="/static-blog-hexo-vercel.html" title="3分钟搭建Hexo静态博客-(vercel篇)">     <img class="post_bg" data-lazy-src="https://s3.ax1x.com/2021/01/20/sf9SRP.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="3分钟搭建Hexo静态博客-(vercel篇)"></a></div><div class="recent-post-info"><a class="article-title" href="/static-blog-hexo-vercel.html" title="3分钟搭建Hexo静态博客-(vercel篇)">3分钟搭建Hexo静态博客-(vercel篇)</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-01-24T12:37:43.000Z" title="发表于 2021-01-24 20:37:43">2021-01-24</time></span><span class="article-meta"><span class="article-meta__separator">|</span><i class="fas fa-inbox article-meta__icon"></i><a class="article-meta__categories" href="/categories/%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B/">系列教程</a></span></div><div class="content">前言
 静态博客有些复杂,太折腾,有些人搞不明白,望而却步,本文让你零基础搭建静态博客,快速上手,而且在线写博客,不用懂命令行
 
 用到的工具
