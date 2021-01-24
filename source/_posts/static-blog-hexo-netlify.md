@@ -1,5 +1,5 @@
 ---
-title: 3分钟搭建Hexo静态博客-(netlify篇)
+title: 3分钟搭建Hexo静态博客-并在线写博客-(netlify篇)
 date: 2021-01-24 20:37:43
 categories: 
 - [系列教程]
