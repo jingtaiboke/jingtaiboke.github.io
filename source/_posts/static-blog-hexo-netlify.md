@@ -21,12 +21,12 @@ updated: 2021-01-20 19:19:14
 # 用到的工具
 
 * [github](https://github.com/ "github") 存放静态博客程序,本文使用hexo
-* [Vercel](https://vercel.com/ "Vercel") 傻瓜式ci部署 + 网站托管 + 绑定域名
+* [netlify](https://www.netlify.com/ "netlify") 傻瓜式ci部署 + 网站托管 + 绑定域名
 * [静态博客编辑器](https://jingtaiboke.com/ "静态博客编辑器") 在线写hexo博客,不用命令行
 
 # 第一步:一键部署静态博客
 
-点击这个按钮,一键部署 [![一键部署hexo到vercel](https://vercel.com/button "一键部署hexo到vercel")](https://vercel.com/import/project?template=https://github.com/jingtaiboke/jingtaiboke.github.io "一键部署hexo到vercel")
+点击这个按钮,一键部署 [![一键部署](https://d33wubrfki0l68.cloudfront.net/65a18ef24e011fbc0b5ddb411d611c0e1d1111a6/17e0b/images/deploy-button.svg "一键部署")](https://app.netlify.com/start/deploy?repository=https://github.com/jingtaiboke/jingtaiboke.github.io "一键部署")
 
 ## 界面1,随便取一个名字
 ![](http://img.youzibe.com/upload/2021/01/242316-1611501410216.png)
