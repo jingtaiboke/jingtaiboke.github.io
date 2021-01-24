@@ -65,7 +65,7 @@ updated: 2021-01-20 19:19:14
 
 ### 一. 直接截图粘贴
 
-> 微信截图,QQ截图.其他各种工具截图 Ctrl+V后,自动上传到sm.ms图床,并帮你插入文章
+> 微信截图,QQ截图.其他各种工具截图 Ctrl+V后,自动上传到sm.ms图床,并插入文章
 
 ### 二. 本地文件拖拽
 
@@ -82,6 +82,10 @@ updated: 2021-01-20 19:19:14
 默认使用https://imgchr.com/
 [更多Chevereto图床](https://github.com/Chevereto/api#-powered-by-chevereto "更多Chevereto图床")
 ![](https://img.youzibe.com/upload/2021/01/242355-1611503757695.png)
+
+### 五. 自定义图床API
+
+支持各种自定义api,比如站长使用的u-file来存储图片,有需要可以联系我
 
 ## [设置](https://jingtaiboke.com/config.php "设置")
 
