@@ -23,14 +23,16 @@ updated: 2021-01-20 19:19:14
 # 使用guthub登录
 
 用github直接登录本站,享受在线管理文章的乐趣
+在这里写上你需要本站管理的仓库,多个可以用逗号隔开(英文逗号)
 
+![](https://img.youzibe.com/upload/2021/01/242358-1611503954756.png)
 
 # 帮助文档
 
 ## 操作界面
 增加、删除，编辑、保存，发布 全部在本站操作即可
 
-![](http://img.youzibe.com/upload/2021/01/242342-1611502941620.png)
+![](https://img.youzibe.com/upload/2021/01/242342-1611502941620.png)
 
 
 ## 新建文章
@@ -39,12 +41,12 @@ updated: 2021-01-20 19:19:14
 
 * 选中刚才新建的文件,在右侧改文件名
 
-![](http://img.youzibe.com/upload/2021/01/242349-1611503365433.png)
+![](https://img.youzibe.com/upload/2021/01/242349-1611503365433.png)
 
 ## 删除文章
 
 * 点击文件名后面的小按钮,即可删除(从github仓库删除)
-![](http://img.youzibe.com/upload/2021/01/242350-1611503471577.png)
+![](https://img.youzibe.com/upload/2021/01/242350-1611503471577.png)
 
 ## 文件重命名
 
@@ -55,7 +57,7 @@ updated: 2021-01-20 19:19:14
 ## 搜索文件
 
 这里是搜索框,只支持打开过的文件夹,未加载的不会搜索
-![](http://img.youzibe.com/upload/2021/01/242354-1611503714683.png)
+![](https://img.youzibe.com/upload/2021/01/242354-1611503714683.png)
 
 
 
@@ -79,7 +81,8 @@ updated: 2021-01-20 19:19:14
 当然可以设置成自己的图床
 默认使用https://imgchr.com/
 [更多Chevereto图床](https://github.com/Chevereto/api#-powered-by-chevereto "更多Chevereto图床")
-![](http://img.youzibe.com/upload/2021/01/242355-1611503757695.png)
+![](https://img.youzibe.com/upload/2021/01/242355-1611503757695.png)
+
 ## [设置](https://jingtaiboke.com/config.php "设置")
 
 ### 1.个人网站设置
@@ -153,4 +156,4 @@ updated: 2021-01-20 19:19:14
 }
 ```
 
-![](https://i.loli.net/2021/01/20/LQBJGxAwZ8jHubs.png)
+![](https://img.youzibe.com/upload/2021/01/250000-1611504047197.png)
