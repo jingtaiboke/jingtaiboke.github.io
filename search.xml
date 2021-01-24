@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>3分钟搭建Hexo静态博客-(netlify篇)</title>
+      <title>3分钟搭建Hexo静态博客-并在线写博客-(netlify篇)</title>
       <link href="static-blog-hexo-netlify.html"/>
       <url>static-blog-hexo-netlify.html</url>
       
@@ -26,6 +26,10 @@
             
             <tag> netlify </tag>
             
+            <tag> 在线写博客 </tag>
+            
+            <tag> 管理后台 </tag>
+            
         </tags>
       
     </entry>
@@ -33,7 +37,7 @@
     
     
     <entry>
-      <title>3分钟搭建Hexo静态博客-(vercel篇)</title>
+      <title>3分钟搭建Hexo静态博客-并在线写博客-(vercel篇)</title>
       <link href="static-blog-hexo-vercel.html"/>
       <url>static-blog-hexo-vercel.html</url>
       
@@ -52,6 +56,10 @@
             <tag> 静态博客编辑器 </tag>
             
             <tag> hexo </tag>
+            
+            <tag> 在线写博客 </tag>
+            
+            <tag> 管理后台 </tag>
             
             <tag> vercel </tag>
             
