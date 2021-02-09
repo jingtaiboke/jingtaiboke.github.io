@@ -89,7 +89,7 @@ avatar:
   effect: false
 
 # The banner image of home page
-index_img: https://img.youzibe.com/upload/2021/01/242342-1611502941620.png
+index_img: 
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
