@@ -21,7 +21,7 @@ tags:
 
 ### 账号注册,以及实名认证
 
-[https://uniapp.dcloud.net.cn/](https://uniapp.dcloud.net.cn/ "https://uniapp.dcloud.net.cn/")
+[https://unicloud.dcloud.net.cn/home](https://unicloud.dcloud.net.cn/home )
 
 ### 演示源码下载
 
