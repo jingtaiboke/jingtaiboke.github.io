@@ -67,6 +67,25 @@ Ctrl+O,选择源码文件夹
 ![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/242bc2bd-e187-4b0a-882e-6e6879b6f6b4.png)
 
 
+### 上传部署
+
+进入编辑器,选中左侧项目--> 点菜单`发行` --> 点`上传网站到服务器`
+
+稍等片提示成功,竣工
+
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/421e8f75-a4f6-4a03-9582-fcddc35351a0.png)
+
+### unicloud的实际应用
+
+[静态博客编辑器](https://jingtaiboke.com/ "静态博客编辑器"),是一个静态博客管理后台.
+已经融合unicloud阿里云图片上传,使用方法很简单
+> 截图 --> Ctrl+V 直接插入到文章中
+> 右键复制网页图片 --> Ctrl+V 也是支持的
+
+从此写静态博客又方便了不少
+
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/34e56954-308c-42b4-9169-4f73f5b08cca.png)
+
 
 
 
