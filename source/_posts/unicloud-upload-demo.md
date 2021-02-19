@@ -64,8 +64,7 @@ Ctrl+O,选择源码文件夹
  > 这一步很重要,否则云函数不会执行
 
 ![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/41339487-7b40-4a67-b1e3-190e6799f275.png)
-![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/242bc2bd-e187-4b0a-882e-6e6879b6f6b4.png)
-
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/a10e7aa9-f923-42c3-82b2-e686b3997679.png)
 
 ### 上传部署
 
