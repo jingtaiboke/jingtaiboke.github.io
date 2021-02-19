@@ -1,6 +1,6 @@
 ---
 title: 从零部署一个unicloud程序-以文件上传为例
-permalink: unicloud-upload-demo.md
+permalink: unicloud-upload-demo.html
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/b759df11-b1a2-4bf6-8a51-1770df4867eb.png
 updated: 2021-02-19 17:11:12
 date: 2021-02-19 17:11:12
