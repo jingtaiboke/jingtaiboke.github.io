@@ -20,6 +20,9 @@ tags:
 
 github:[https://github.com/jingtaiboke/simple-markdown-site](https://github.com/jingtaiboke/simple-markdown-site "https://github.com/jingtaiboke/simple-markdown-site")
 
+## 演示
+
+[DEMO](https://heji.vercel.app/ "demo")
 
 ## 只有3个文件夹
 
@@ -46,9 +49,7 @@ npm run build
 ## 一键部署到vercel
 
  [![一键部署hexo到vercel](https://vercel.com/button "一键部署到vercel")](https://vercel.com/import/project?template=https://github.com/jingtaiboke/simple-markdown-site "一键部署到vercel")
-## 演示
 
-[DEMO](https://heji.vercel.app/ "demo")
 
 ![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/678b1e57-6abb-45d7-8771-a46e9b922258.png)
 
