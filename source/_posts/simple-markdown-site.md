@@ -16,7 +16,7 @@ tags:
 ---
 
 
-> 这可能是史上最简单的静态站点生成器了,使用markdown作为源文件,生成html静态站点,
+> 这可能是史上最简单的静态站点生成器了,使用markdown作为源文件,生成html静态站点,并且是渲染过的
 
 
 ## 只有3个文件夹
@@ -49,3 +49,25 @@ npm run build
 [DEMO](https://heji.vercel.app/ "demo")
 
 ![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/678b1e57-6abb-45d7-8771-a46e9b922258.png)
+
+## 推荐几个类似的
+
+###  https://docsify.js.org/
+
+ > 直接加载md文件,无渲染,搜索引擎不友好,至少百度不友好 [demo](https://github.com/docsifyjs/docsify "free-for.dev")
+
+### https://github.com/jingtaiboke/artless
+
+> 同上 无渲染 [demo](https://artless-wxlzmt.netlify.app/ "demo")
+
+### https://github.com/me1a/mini-book
+
+> 有渲染,node构建,首页直接是个搜索框
+
+
+
+
+
+
+
+
