@@ -16,7 +16,9 @@ tags:
 ---
 
 
-> 这可能是史上最简单的静态站点生成器了,使用markdown作为源文件,生成html静态站点,并且是渲染过的
+> 这可能是史上最简单的静态站点生成器了,使用markdown作为源文件,生成html静态站点,并且html是渲染过的,搜索引擎友好
+
+github:[https://github.com/jingtaiboke/simple-markdown-site](https://github.com/jingtaiboke/simple-markdown-site "https://github.com/jingtaiboke/simple-markdown-site")
 
 
 ## 只有3个文件夹
