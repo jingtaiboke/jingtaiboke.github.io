@@ -1,11 +1,18 @@
 ---
 title: 这可能是最简单的markdown静态站点生成器了
 permalink: simple-markdown-site.html
-cover: 
+cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/af0d1a2f-a35b-454a-8f96-86d4f9fedebb.png
 updated: 2021-03-03 12:04:20
 date: 2021-03-03 12:04:20
 categories: 
+- [静态博客技术]
+
 tags: 
+- 静态站点
+- markdown
+- 生成器
+- html
+- 最简单
 ---
 
 
@@ -31,5 +38,10 @@ npm run build
 ```
 
 ## 一键部署到vercel
+
+ [![一键部署hexo到vercel](https://vercel.com/button "一键部署到vercel")](https://vercel.com/import/project?template=https://github.com/jingtaiboke/simple-markdown-site "一键部署到vercel")
+## 演示
+
+[DEMO](https://heji.vercel.app/ "demo")
 
 ![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/678b1e57-6abb-45d7-8771-a46e9b922258.png)
