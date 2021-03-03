@@ -16,7 +16,7 @@ tags:
 ---
 
 
-> 这可能是史上最简单的静态站点生成器了,使用markdown作为源文件,生成html静态站点
+> 这可能是史上最简单的静态站点生成器了,使用markdown作为源文件,生成html静态站点,
 
 
 ## 只有3个文件夹
@@ -36,6 +36,10 @@ npm i
 npm run build
 
 ```
+
+## 用到的库
+
+* markdown-styles
 
 ## 一键部署到vercel
 
