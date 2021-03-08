@@ -34,7 +34,7 @@ python脚本在这里下载:
 
 `新建`-->`导入`-->`HTML or Markdown.zip`
 
-然后无比选中最后一项(防止标题乱码)
+然后务必选中最后一项(防止标题乱码)
 
 ![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3c98b21f-9e7e-4bcb-9142-940554115122/3d46d02a-8013-4df0-9fa6-22a5cd175ff9.png)
 
