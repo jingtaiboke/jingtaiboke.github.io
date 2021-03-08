@@ -15,7 +15,9 @@ tags:
 
 ---
 
-> 语雀很适合做个人博客,尤其是隐私博客,将wordpress文章导入到语雀方法如下
+> 语雀很适合做个人博客,尤其是隐私博客,刚把自己的私人博客,从wordpres迁移到了语雀,只要攻克wordpress导出问html文件即可,一个脚本搞定
+
+具体将wordpress文章导入到语雀方法如下
 
 ## 1.首先[注册语雀(含邀请链接)](https://www.yuque.com/login?platform=wechat&inviteToken=6f77531ad0334e1991ac5c8b18609acc163341dcdabfa632c2c430d6d091579c)
 
