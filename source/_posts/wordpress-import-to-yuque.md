@@ -19,7 +19,9 @@ tags:
 
 具体将wordpress文章导入到语雀方法如下
 
-## 1.首先[注册语雀(含邀请链接)](https://www.yuque.com/login?platform=wechat&inviteToken=6f77531ad0334e1991ac5c8b18609acc163341dcdabfa632c2c430d6d091579c)
+## 1.首先[注册语雀(含小尾巴)](https://www.yuque.com/login?platform=wechat&inviteToken=6f77531ad0334e1991ac5c8b18609acc163341dcdabfa632c2c430d6d091579c),抢一个好的团队域名
+
+先注册一个,抢一个好看点的团队域名比如我的`tuite`还不错,下面的脚本文件夹,还有一个扫描语雀团队路径的小脚本,可以扫一下哪些好点的路径没有被使用
 
 ## 2.从wordpress数据库导出为html文件
 
